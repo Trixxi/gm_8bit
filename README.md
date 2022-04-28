@@ -35,3 +35,5 @@ Both windows and linux builds are available with every commit. See the actions p
 `eightbit.EFF_DESAMPLE` Desamples audio, new frequency is 1/(1-1/n).
 
 `eightbit.EFF_BITCRUSH` Deep fries the audio. Governed by a gain factor and a quantization factor.
+
+gamer
