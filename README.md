@@ -36,4 +36,4 @@ Both windows and linux builds are available with every commit. See the actions p
 
 `eightbit.EFF_BITCRUSH` Deep fries the audio. Governed by a gain factor and a quantization factor.
 
-gamer
+gamer2
